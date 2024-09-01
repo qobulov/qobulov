@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Gitlab](https://gitlab.com/qobulov)
 
-- 👨‍💻 All of my projects are available at [https://github.com/qobulov and https://gitlab.com/qobulov](https://github.com/qobulov and https://gitlab.com/qobulov)
+- 👨‍💻 All of my projects are available at [https://github.com/qobulov](https://gitlab.com/qobulov)
 
 - 📫 How to reach me **azizbekqobulov05@gmail.com**
 

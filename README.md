@@ -16,12 +16,12 @@
     <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/azizbek-qobulov" /> 
   </a>
   <a href="https://www.instagram.com/azizbek_qobulov/" alt="Instagram"> 
-    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/azizbek_qobulov/"/> 
+    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/azxxbek/"/> 
   </a>
-  <a href = "mailto:azizbek.qobulov@example.com"> 
+  <a href = "mailto:azizbekqobulov05@gmail.com"> 
     <img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> 
   </a>
-  <a href="https://t.me/azizbek_qobulov"> 
+  <a href="https://t.me/@pronium"> 
     <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white"> 
   </a>
 </p>

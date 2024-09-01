@@ -1,16 +1,19 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+There!+👋;This+is+Azizbek+Qobulov👨‍💻&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+There!+👋;This+is+Azizbek👨‍💻&center=true&size=30">
   </a>
   <h3 align="center">I am a Go backend developer who is passionate about coding, video editing, and creating videos. I enjoy working on complex challenges and building efficient solutions.</h3>
 </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qobulov&label=Profile%20views&color=0e75b6&style=flat" alt="qobulov" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/qobulov](https://github.com/qobulov)
+- 🔭 I’m currently working on [Gitlab](https://gitlab.com/qobulov)
+
+- 👨‍💻 All of my projects are available at [https://github.com/qobulov and https://gitlab.com/qobulov](https://github.com/qobulov and https://gitlab.com/qobulov)
 
 - 📫 How to reach me **azizbekqobulov05@gmail.com**
 
 - ⚡ Fun fact **T_T**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/azxxbek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="azxxbek" height="30" width="40" /></a>

@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Azizbek Qobulov</h1>
-<h3 align="center">I am a Go backend developer who is passionate about coding, video editing, and creating videos. I enjoy working on complex challenges and building efficient solutions.</h3>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+There!+👋;This+is+Doston👨‍💻&center=true&size=30">
+  </a>
+  <h3 align="center">I am a Go backend developer who is passionate about coding, video editing, and creating videos. I enjoy working on complex challenges and building efficient solutions.</h3>
+</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qobulov&label=Profile%20views&color=0e75b6&style=flat" alt="qobulov" /> </p>
 

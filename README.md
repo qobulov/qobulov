@@ -11,7 +11,6 @@
 - 📫 How to reach me **azizbekqobulov05@gmail.com**
 
 - ⚡ Fun fact **T_T**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/azxxbek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="azxxbek" height="30" width="40" /></a>
@@ -26,5 +25,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://buymeacoffee.com/qobulov"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/qobulov" /></a></p><br><br>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=qobulov&show_icons=true&locale=en&layout=compact" alt="qobulov" /></p>

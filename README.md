@@ -15,7 +15,7 @@
   <a href="https://www.linkedin.com/in/azizbek-qobulov" target="_blank" alt="Linkedin"> 
     <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/azizbek-qobulov" /> 
   </a>
-  <a href="https://www.instagram.com/azizbek_qobulov/" alt="Instagram"> 
+  <a href="https://www.instagram.com/azxxbek/" alt="Instagram"> 
     <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/azxxbek/"/> 
   </a>
   <a href = "mailto:azizbekqobulov05@gmail.com"> 

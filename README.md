@@ -19,7 +19,7 @@
 <a href="https://twitter.com/azxxbek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="azxxbek" height="30" width="40" /></a>
 <a href="https://fb.com/azxxbek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="azxxbek" height="30" width="40" /></a>
 <a href="https://instagram.com/azxxbek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="azxxbek" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/proniumx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="proniumx" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@proniumx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="proniumx" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/qobulov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="qobulov" height="30" width="40" /></a>
 </p>
 
